@@ -3,10 +3,10 @@ C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\bin\Debug\MyGame.exe
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\bin\Debug\MyGame.exe
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\bin\Debug\MyGame.pdb
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\bin\Debug\MyGame.xml
-C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.vbprojResolveAssemblyReference.cache
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.Resources.resources
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.vbproj.GenerateResource.Cache
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.exe
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.xml
 C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Matthew\Documents\GitHub\GameProject\MyGame\MyGame\obj\Debug\MyGame.vbprojResolveAssemblyReference.cache
